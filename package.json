@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.25.4",
+    "@clerk/nextjs": "^4.25.7",
     "@tailwindcss/typography": "^0.5.10",
-    "next": "^13.5.3",
+    "next": "^13.5.6",
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss-animate": "^1.0.7"
